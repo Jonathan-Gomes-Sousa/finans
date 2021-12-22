@@ -1,0 +1,12 @@
+
+
+.btn-outline-light:hover{
+    background: none;
+}
+
+/* É SO APLICAR A CLASS ONDE QUISER QUE FIQUE COM ESSE GRADIENTE FIZ O TESTE COM  MAIS DE 3 CORES*/
+.menu-bar{
+   background: linear-gradient(-90deg, #d38312, #a83279);
+   /* background: radial-gradient( #d5f5f7, #a84fd2);*/
+    
+}
